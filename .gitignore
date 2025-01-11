@@ -5,14 +5,14 @@ build/
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
-*.log
+# Log/OS File 
+*.log BCA
 
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
-.cxx/
-*.apk/ situs website slot 
+.cxx/ permainan judi terbaik 
+*.apk website situs slot 
 output.json
 
 # IntelliJ
